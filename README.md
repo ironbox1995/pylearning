@@ -1,0 +1,2 @@
+# pylearning
+basic python knowledge
